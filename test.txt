@@ -1,1 +1,1 @@
-dupa
+print "siema siema"

@@ -1,1 +1,1 @@
-print "siema"
+print "jest git"

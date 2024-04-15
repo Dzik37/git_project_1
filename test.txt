@@ -1,3 +1,7 @@
 print "jest git"
 gojernguiebrugbuieb
+<<<<<<< HEAD
 ugihruivuieuincsdin
+=======
+alallala
+>>>>>>> development
